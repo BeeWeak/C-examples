@@ -1,0 +1,2 @@
+C:\Users\harrywatson\OneDrive - Exeter College\HND\C#\ForestErrorSolution2\obj\x86\Debug\stuff.csproj.AssemblyReference.cache
+C:\Users\harrywatson\OneDrive - Exeter College\HND\C#\ForestErrorSolution2\obj\x86\Debug\stuff.csproj.CoreCompileInputs.cache

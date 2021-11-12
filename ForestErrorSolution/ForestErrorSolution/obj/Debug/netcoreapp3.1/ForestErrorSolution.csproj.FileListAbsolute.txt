@@ -1,0 +1,5 @@
+C:\Users\harrywatson\OneDrive - Exeter College\HND\C#\ForestErrorSolution\ForestErrorSolution\obj\Debug\netcoreapp3.1\ForestErrorSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harrywatson\OneDrive - Exeter College\HND\C#\ForestErrorSolution\ForestErrorSolution\obj\Debug\netcoreapp3.1\ForestErrorSolution.AssemblyInfoInputs.cache
+C:\Users\harrywatson\OneDrive - Exeter College\HND\C#\ForestErrorSolution\ForestErrorSolution\obj\Debug\netcoreapp3.1\ForestErrorSolution.AssemblyInfo.cs
+C:\Users\harrywatson\OneDrive - Exeter College\HND\C#\ForestErrorSolution\ForestErrorSolution\obj\Debug\netcoreapp3.1\ForestErrorSolution.csproj.CoreCompileInputs.cache
+C:\Users\harrywatson\OneDrive - Exeter College\HND\C#\ForestErrorSolution\ForestErrorSolution\obj\Debug\netcoreapp3.1\ForestErrorSolution.csproj.AssemblyReference.cache
