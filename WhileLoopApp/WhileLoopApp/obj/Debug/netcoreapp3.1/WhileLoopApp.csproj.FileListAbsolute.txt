@@ -1,0 +1,13 @@
+C:\Users\harrywatson\OneDrive\C#\WhileLoopApp\WhileLoopApp\bin\Debug\netcoreapp3.1\WhileLoopApp.exe
+C:\Users\harrywatson\OneDrive\C#\WhileLoopApp\WhileLoopApp\bin\Debug\netcoreapp3.1\WhileLoopApp.deps.json
+C:\Users\harrywatson\OneDrive\C#\WhileLoopApp\WhileLoopApp\bin\Debug\netcoreapp3.1\WhileLoopApp.runtimeconfig.json
+C:\Users\harrywatson\OneDrive\C#\WhileLoopApp\WhileLoopApp\bin\Debug\netcoreapp3.1\WhileLoopApp.runtimeconfig.dev.json
+C:\Users\harrywatson\OneDrive\C#\WhileLoopApp\WhileLoopApp\bin\Debug\netcoreapp3.1\WhileLoopApp.dll
+C:\Users\harrywatson\OneDrive\C#\WhileLoopApp\WhileLoopApp\bin\Debug\netcoreapp3.1\WhileLoopApp.pdb
+C:\Users\harrywatson\OneDrive\C#\WhileLoopApp\WhileLoopApp\obj\Debug\netcoreapp3.1\WhileLoopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harrywatson\OneDrive\C#\WhileLoopApp\WhileLoopApp\obj\Debug\netcoreapp3.1\WhileLoopApp.AssemblyInfoInputs.cache
+C:\Users\harrywatson\OneDrive\C#\WhileLoopApp\WhileLoopApp\obj\Debug\netcoreapp3.1\WhileLoopApp.AssemblyInfo.cs
+C:\Users\harrywatson\OneDrive\C#\WhileLoopApp\WhileLoopApp\obj\Debug\netcoreapp3.1\WhileLoopApp.csproj.CoreCompileInputs.cache
+C:\Users\harrywatson\OneDrive\C#\WhileLoopApp\WhileLoopApp\obj\Debug\netcoreapp3.1\WhileLoopApp.dll
+C:\Users\harrywatson\OneDrive\C#\WhileLoopApp\WhileLoopApp\obj\Debug\netcoreapp3.1\WhileLoopApp.pdb
+C:\Users\harrywatson\OneDrive\C#\WhileLoopApp\WhileLoopApp\obj\Debug\netcoreapp3.1\WhileLoopApp.genruntimeconfig.cache
