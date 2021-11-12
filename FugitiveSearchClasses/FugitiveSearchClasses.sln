@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FugitiveSearchClasses", "FugitiveSearchClasses\FugitiveSearchClasses.csproj", "{6A7E80EE-939E-4306-BBB4-2774C6F973E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A7E80EE-939E-4306-BBB4-2774C6F973E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7E80EE-939E-4306-BBB4-2774C6F973E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7E80EE-939E-4306-BBB4-2774C6F973E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7E80EE-939E-4306-BBB4-2774C6F973E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B42E560C-E6AB-4D25-8997-8B3C3EA6833F}
+	EndGlobalSection
+EndGlobal
