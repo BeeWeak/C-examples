@@ -1,0 +1,5 @@
+C:\Users\harrywatson\OneDrive - Exeter College\HND\C#\forestsClassesExtended\forestsClassesExtended\obj\Debug\netcoreapp3.1\forestsClassesExtended.csproj.AssemblyReference.cache
+C:\Users\harrywatson\OneDrive - Exeter College\HND\C#\forestsClassesExtended\forestsClassesExtended\obj\Debug\netcoreapp3.1\forestsClassesExtended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harrywatson\OneDrive - Exeter College\HND\C#\forestsClassesExtended\forestsClassesExtended\obj\Debug\netcoreapp3.1\forestsClassesExtended.AssemblyInfoInputs.cache
+C:\Users\harrywatson\OneDrive - Exeter College\HND\C#\forestsClassesExtended\forestsClassesExtended\obj\Debug\netcoreapp3.1\forestsClassesExtended.AssemblyInfo.cs
+C:\Users\harrywatson\OneDrive - Exeter College\HND\C#\forestsClassesExtended\forestsClassesExtended\obj\Debug\netcoreapp3.1\forestsClassesExtended.csproj.CoreCompileInputs.cache
