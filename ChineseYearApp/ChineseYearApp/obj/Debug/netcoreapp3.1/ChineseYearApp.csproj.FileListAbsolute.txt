@@ -1,0 +1,13 @@
+C:\Users\harrywatson\OneDrive\C#\ChineseYearApp\ChineseYearApp\bin\Debug\netcoreapp3.1\ChineseYearApp.exe
+C:\Users\harrywatson\OneDrive\C#\ChineseYearApp\ChineseYearApp\bin\Debug\netcoreapp3.1\ChineseYearApp.deps.json
+C:\Users\harrywatson\OneDrive\C#\ChineseYearApp\ChineseYearApp\bin\Debug\netcoreapp3.1\ChineseYearApp.runtimeconfig.json
+C:\Users\harrywatson\OneDrive\C#\ChineseYearApp\ChineseYearApp\bin\Debug\netcoreapp3.1\ChineseYearApp.runtimeconfig.dev.json
+C:\Users\harrywatson\OneDrive\C#\ChineseYearApp\ChineseYearApp\bin\Debug\netcoreapp3.1\ChineseYearApp.dll
+C:\Users\harrywatson\OneDrive\C#\ChineseYearApp\ChineseYearApp\bin\Debug\netcoreapp3.1\ChineseYearApp.pdb
+C:\Users\harrywatson\OneDrive\C#\ChineseYearApp\ChineseYearApp\obj\Debug\netcoreapp3.1\ChineseYearApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harrywatson\OneDrive\C#\ChineseYearApp\ChineseYearApp\obj\Debug\netcoreapp3.1\ChineseYearApp.AssemblyInfoInputs.cache
+C:\Users\harrywatson\OneDrive\C#\ChineseYearApp\ChineseYearApp\obj\Debug\netcoreapp3.1\ChineseYearApp.AssemblyInfo.cs
+C:\Users\harrywatson\OneDrive\C#\ChineseYearApp\ChineseYearApp\obj\Debug\netcoreapp3.1\ChineseYearApp.csproj.CoreCompileInputs.cache
+C:\Users\harrywatson\OneDrive\C#\ChineseYearApp\ChineseYearApp\obj\Debug\netcoreapp3.1\ChineseYearApp.dll
+C:\Users\harrywatson\OneDrive\C#\ChineseYearApp\ChineseYearApp\obj\Debug\netcoreapp3.1\ChineseYearApp.pdb
+C:\Users\harrywatson\OneDrive\C#\ChineseYearApp\ChineseYearApp\obj\Debug\netcoreapp3.1\ChineseYearApp.genruntimeconfig.cache
